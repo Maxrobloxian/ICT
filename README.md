@@ -1,5 +1,5 @@
 Pro oriantaci sem rozdelil soubory do vic filu.
-V issues sem dal nejake videa. Ukazka animace a hry.
+V issues sem dal video. Ukazka animace pistole.
 
 Udelal jsem hru na Unity, je to 3D FPS (first person shooter) hra.
 V ni jsou 2 zbrane: Pistole a samopal M4. Jedna je manualni a druha je automatni.
